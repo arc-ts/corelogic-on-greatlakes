@@ -1,7 +1,7 @@
 # corelogic-on-greatlakes
 Documentation, How-tos, and example code for using Great Lakes to process U-M CoreLogic data.
 
-#Overview 
+# Overview 
 This repository demonstrates a workflow for processing the CoreLogic Data on the Great Lakes (GL) cluster at the University of Michigan. 
 
 The repository is organized in several directories that each demo one step in the following workflow:
