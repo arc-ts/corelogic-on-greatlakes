@@ -1,0 +1,1 @@
+Here, we explain what the CoreLogic data is and how you can get access for research purposes at U-M.
