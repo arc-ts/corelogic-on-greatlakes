@@ -1,0 +1,1 @@
+In this directory, we explain how to start an Open On Demand (ondemand/OOD) session on Great Lakes (GL) and load a Jupyter Notebook with Spark enabled.
