@@ -1,0 +1,1 @@
+If you are interested in using git version control to track your work in a GitHub repository, this how-to explains how you can clone from and commit to a GitHub repository from your Great Lakes login node.
