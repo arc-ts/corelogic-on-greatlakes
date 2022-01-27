@@ -20,5 +20,5 @@ For web browsers, Firefox, Edge, or Chrome in incognito mode are recommended. Na
 
 ## 5. Select Jupyter + Spark Basic under Interactive Apps
 In the top left menu, go to "Interactive Apps" and select "Jupyter + Spark Basic" from the drop-down menu.
-![starting-jupyter-spark-basic.png]
+![](starting-jupyter-spark-basic.png)
 
