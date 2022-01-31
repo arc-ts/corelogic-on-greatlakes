@@ -36,6 +36,9 @@ Once you launched the new Jupyter + Spark Basic session, it will be listed under
 ##  7. Terminating a job
 A job terminates in two ways. Either, the job will be stopped when the requested number of hours has elapsed. Or, you can manually terminate a job in one of two ways: (1) click the ```Quit``` button in the upper right corner of the Jupyter Server web page or (2) delete the running app from the OOD portal under ```My Interactive Sessions```.  Manually quitting the job is necessary if you complete your work before the requested wall time expires. This way,  your account will no longer be charged.
 
-![Quitting a jupyter session in the Jupyter server](quitting-jupyter-session.png)
+
+| ![Quitting a jupyter session in the Jupyter server](quitting-jupyter-session.png) | 
+|:--:| 
+| *Quitting a jupyter session in the Jupyter server* |
 
 ![Deleting a jupyter session in `My interactive sessions'](deleting-jupyter-sessions.png)
