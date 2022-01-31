@@ -15,7 +15,7 @@ You will need your own user login (which you can request [here](https://arc.umic
 To connect to Great Lakes OnDemand, you either need to be using a computer on campus or connect to the campus network using [VPN](https://its.umich.edu/enterprise/wifi-networks/vpn/getting-started).
 
 ## 4. Open a new web browser tab and navigate to the cluster
-For web browsers, Firefox, Edge, or Chrome in incognito mode are recommended. Navigate to [greatlakes.arc-ts.umich.edu](greatlakes.arc-ts.umich.edu), which will prompt you to complete two-factor authentication via Duo.
+For web browsers, Firefox, Edge, or Chrome in incognito mode are recommended. Navigate to [https://greatlakes.arc-ts.umich.edu](https://greatlakes.arc-ts.umich.edu), which will prompt you to complete two-factor authentication via Duo.
 
 
 ## 5. Select Jupyter + Spark Basic under Interactive Apps
